@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yoruscripts/eggdetector/refs/heads/main/eggrandomizergag"))()
